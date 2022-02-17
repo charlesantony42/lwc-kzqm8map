@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/charlesantony42.lwc-kzqm8map",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve GfWTsAY2SwyV6oTZ75YY --open"
+  }
+}
